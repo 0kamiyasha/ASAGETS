@@ -544,7 +544,7 @@
                     "alternateItems": []
                 },
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 60,
                     "alternateItemChance": 0,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
@@ -567,7 +567,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 60,
                     "alternateItemChance": 0,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
@@ -592,7 +592,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 60,
                     "alternateItemChance": 0,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
@@ -617,7 +617,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 60,
                     "alternateItemChance": 0,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
@@ -709,7 +709,7 @@
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP'",
             "produces": [
                 {
-                    "intervalSeconds": 240,
+                    "intervalSeconds": 60,
                     "alternateItemChance": 0,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'"
@@ -931,10 +931,10 @@
                 {
                     "intervalSeconds": 240,
                     "alternateItemChance": 0,
-                    "items": [],
-                    "alternateItems": [
+                    "items": [
                         "/PrimalNemesis/3Items/Feather/PrimalItemConsumable_Feather_Apex.PrimalItemConsumable_Feather_Apex"
-                    ]
+                    ],
+                    "alternateItems": []
                 }
             ]
         },
@@ -960,10 +960,10 @@
                 {
                     "intervalSeconds": 240,
                     "alternateItemChance": 0,
-                    "items": [],
-                    "alternateItems": [
+                    "items": [
                         "/PrimalNemesis/3Items/Feather/PrimalItemConsumable_Feather_Apex.PrimalItemConsumable_Feather_Apex"
-                    ]
+                    ],
+                    "alternateItems": []
                 },
                 {
                     "intervalSeconds": 3600,
@@ -997,10 +997,10 @@
                 {
                     "intervalSeconds": 240,
                     "alternateItemChance": 0,
-                    "items": [],
-                    "alternateItems": [
+                    "items": [
                         "/PrimalNemesis/3Items/Feather/PrimalItemConsumable_Feather_Apex.PrimalItemConsumable_Feather_Apex"
-                    ]
+                    ],
+                    "alternateItems": []
                 }
             ]
         },
@@ -1026,10 +1026,10 @@
                 {
                     "intervalSeconds": 240,
                     "alternateItemChance": 0,
-                    "items": [],
-                    "alternateItems": [
+                    "items": [
                         "/PrimalNemesis/3Items/Feather/PrimalItemConsumable_Feather_Apex.PrimalItemConsumable_Feather_Apex"
-                    ]
+                    ],
+                    "alternateItems": []
                 }
             ]
         },
