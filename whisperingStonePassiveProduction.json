@@ -5,7 +5,7 @@
             "produces": [
                 {
                     "intervalSeconds": 60,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
                     ],
@@ -15,7 +15,7 @@
                 },
                 {
                     "intervalSeconds": 3600,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
                     ],
@@ -30,7 +30,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
                     ],
@@ -45,7 +45,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
                     ],
@@ -55,7 +55,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Celestial/PrimalItemResource_Hide_Celestial.PrimalItemResource_Hide_Celestial"
@@ -63,7 +63,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Celestial/PrimalItemConsumable_Blood_Celestial.PrimalItemConsumable_Blood_Celestial"
@@ -89,7 +89,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
                     ],
@@ -104,7 +104,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
                     ],
@@ -145,7 +145,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
                     ],
@@ -160,7 +160,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil'"
                     ],
@@ -222,7 +222,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey'"
                     ],
@@ -237,7 +237,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "/PrimalNemesis/3Items/Beehoney/Demonic/PrimalItemConsumable_Honey_Demonic.PrimalItemConsumable_Honey_Demonic"
                     ],
@@ -247,7 +247,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Demonic/PrimalItemConsumable_Blood_Demonic.PrimalItemConsumable_Blood_Demonic"
@@ -255,7 +255,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Demonic/PrimalItemResource_Hide_Demonic.PrimalItemResource_Hide_Demonic"
@@ -268,7 +268,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "/PrimalNemesis/3Items/Beehoney/Celestial/PrimalItemConsumable_Honey_Celestial.PrimalItemConsumable_Honey_Celestial"
                     ],
@@ -278,7 +278,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Celestial/PrimalItemConsumable_Blood_Celestial.PrimalItemConsumable_Blood_Celestial"
@@ -286,7 +286,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Celestial/PrimalItemResource_Hide_Celestial.PrimalItemResource_Hide_Celestial"
@@ -320,7 +320,7 @@
             "produces": [
                 {
                     "intervalSeconds": 900,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
                     ],
@@ -330,7 +330,7 @@
                 },
                 {
                     "intervalSeconds": 900,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
                     ],
@@ -345,7 +345,7 @@
             "produces": [
                 {
                     "intervalSeconds": 900,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
                     ],
@@ -355,7 +355,7 @@
                 },
                 {
                     "intervalSeconds": 900,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
                     ],
@@ -370,7 +370,7 @@
             "produces": [
                 {
                     "intervalSeconds": 900,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil'"
                     ],
@@ -380,7 +380,7 @@
                 },
                 {
                     "intervalSeconds": 900,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost'"
                     ],
@@ -408,7 +408,7 @@
             "produces": [
                 {
                     "intervalSeconds": 300,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
                     ],
@@ -418,7 +418,7 @@
                 },
                 {
                     "intervalSeconds": 300,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha"
@@ -431,7 +431,7 @@
             "produces": [
                 {
                     "intervalSeconds": 300,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap'"
                     ],
@@ -441,7 +441,7 @@
                 },
                 {
                     "intervalSeconds": 300,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
@@ -467,7 +467,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Ankylosaurus/AnkyForge/PrimalItemResource_Gasoline_Anky.PrimalItemResource_Gasoline_Anky"
                     ],
@@ -477,7 +477,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "/PrimalNemesis/1Dinos/3Elemental/Volcanic/Ankylosaurus/AnkyForge/PrimalItemResource_MetalIngot_Anky.PrimalItemResource_MetalIngot_Anky"
                     ],
@@ -558,7 +558,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
                     ],
@@ -568,7 +568,7 @@
                 },
                 {
                     "intervalSeconds": 60,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
                     ],
@@ -583,7 +583,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
                     ],
@@ -593,7 +593,7 @@
                 },
                 {
                     "intervalSeconds": 60,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
                     ],
@@ -608,7 +608,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
                     ],
@@ -618,7 +618,7 @@
                 },
                 {
                     "intervalSeconds": 60,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
                     ],
@@ -633,7 +633,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
                     ],
@@ -648,7 +648,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
                     ],
@@ -658,7 +658,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha"
@@ -666,7 +666,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha"
@@ -679,7 +679,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wool.PrimalItemResource_Wool'"
                     ],
@@ -689,7 +689,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
@@ -697,7 +697,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
@@ -710,7 +710,7 @@
             "produces": [
                 {
                     "intervalSeconds": 60,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin'"
                     ],
@@ -725,7 +725,7 @@
             "produces": [
                 {
                     "intervalSeconds": 60,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
                     ],
@@ -735,7 +735,7 @@
                 },
                 {
                     "intervalSeconds": 3600,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
                     ],
@@ -750,7 +750,7 @@
             "produces": [
                 {
                     "intervalSeconds": 60,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
                     ],
@@ -771,7 +771,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
                     ],
@@ -781,7 +781,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha"
@@ -794,7 +794,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
                     ],
@@ -804,7 +804,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
@@ -817,7 +817,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
                     ],
@@ -832,7 +832,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
                     ],
@@ -842,7 +842,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/3Element/Earth/PrimalItemResource_Hide_Earth.PrimalItemResource_Hide_Earth"
@@ -868,7 +868,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack'"
                     ],
@@ -878,7 +878,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha"
@@ -891,7 +891,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack'"
                     ],
@@ -901,7 +901,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
@@ -914,7 +914,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
@@ -922,7 +922,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
@@ -943,7 +943,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
@@ -951,7 +951,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
@@ -980,7 +980,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
@@ -988,7 +988,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
@@ -1009,7 +1009,7 @@
             "produces": [
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
@@ -1017,7 +1017,7 @@
                 },
                 {
                     "intervalSeconds": 240,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
@@ -1038,7 +1038,7 @@
             "produces": [
                 {
                     "intervalSeconds": 120,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "/PrimalNemesis/3Items/Metalsystem/Minerals/Copper/PrimalItemResource_CopperOre.PrimalItemResource_CopperOre"
                     ],
@@ -1048,7 +1048,7 @@
                 },
                 {
                     "intervalSeconds": 120,
-                    "alternateItemChance": 0,
+                    "alternateItemChance": 0.01,
                     "items": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'"
                     ],
