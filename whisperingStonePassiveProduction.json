@@ -171,6 +171,19 @@
             ]
         },
         {
+            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP'",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
+                    ],
+                    "alternateItems": []
+                }
+            ]
+        },
+        {
             "dinoType": "Blueprint'/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP'",
             "produces": [
                 {
@@ -703,6 +716,195 @@
                     ],
                     "alternateItems": [
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/2Apex/Achitina/ApexAchatina_Character_BP.ApexAchatina_Character_BP",
+            "produces": [
+                {
+                    "intervalSeconds": 60,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
+                    ],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 3600,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+                    ],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
+            "produces": [
+                {
+                    "intervalSeconds": 60,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
+                    ],
+                    "alternateItems": []
+                },
+                {
+                    "intervalSeconds": 3600,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+                    ],
+                    "alternateItems": []
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/1Alpha/Doedicurus/AlphaDoed_Character_BP_PN.AlphaDoed_Character_BP_PN",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
+                    ],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/2Apex/Doedicurus/ApexDoed_Character_BP.ApexDoed_Character_BP",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
+                    ],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Doedicurus/Bionic_Doed_Character_BP.Bionic_Doed_Character_BP",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
+                    ],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/4ADVElement/Bionic/PrimalItemConsumable_Blood_Bionic.PrimalItemConsumable_Blood_Bionic"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/3Elemental/Earth/Doedic/Earth_Doed_Character_BP.Earth_Doed_Character_BP",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
+                    ],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/3Elemental/Earth/PrimalItemConsumable_Blood_Earth.PrimalItemConsumable_Blood_Earth"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/3Element/Earth/PrimalItemResource_Hide_Earth.PrimalItemResource_Hide_Earth"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP'",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack'"
+                    ],
+                    "alternateItems": []
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/1Alpha/Onyc/AlphaOnyc_Character_BP_PN.AlphaOnyc_Character_BP_PN",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack'"
+                    ],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/2Apex/Onyc/ApexOnyc_Character_BP.ApexOnyc_Character_BP",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack'"
+                    ],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
                     ]
                 }
             ]
