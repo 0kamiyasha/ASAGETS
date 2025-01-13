@@ -1233,7 +1233,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 0,
+                    "intervalSeconds": 240,
                     "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
@@ -1256,7 +1256,7 @@
                     ]
                 },
                 {
-                    "intervalSeconds": 0,
+                    "intervalSeconds": 240,
                     "alternateItemChance": 0.01,
                     "items": [],
                     "alternateItems": [
