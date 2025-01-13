@@ -1305,7 +1305,7 @@
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SpoiledMeat.PrimalItemConsumable_SpoiledMeat'"
                     ],
                     "alternateItems": [
-                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic'"
+                        "/PrimalNemesis/3Items/Narcotics/1Alpha/PrimalItemConsumable_Narcotic_Alpha.PrimalItemConsumable_Narcotic_Alpha"
                     ]
                 },
                 {
@@ -1336,7 +1336,7 @@
                         "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SpoiledMeat.PrimalItemConsumable_SpoiledMeat'"
                     ],
                     "alternateItems": [
-                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic'"
+                        "/PrimalNemesis/3Items/Narcotics/2Apex/PrimalItemConsumable_Narcotic_Apex.PrimalItemConsumable_Narcotic_Apex"
                     ]
                 },
                 {
