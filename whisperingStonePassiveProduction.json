@@ -526,7 +526,7 @@
                     "intervalSeconds": 120,
                     "alternateItemChance": 0,
                     "items": [
-                        "/PrimalNemesis/3Items/Metalsystem/Minerals/Tin/PrimalItemResource_TinOre.PrimalItemResource_TinOre"
+                        "/PrimalNemesis/3Items/Metalsystem/Minerals/Nickel/PrimalItemResource_NickelOre.PrimalItemResource_NickelOre"
                     ],
                     "alternateItems": []
                 }
@@ -906,6 +906,224 @@
                     "alternateItems": [
                         "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
                     ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/2Apex/Argentavis/ApexArgent_Character_BP.ApexArgent_Character_BP",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Feather/PrimalItemConsumable_Feather_Apex.PrimalItemConsumable_Feather_Apex"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/2Apex/Hesperornis/ApexHesperornis_Character_BP.ApexHesperornis_Character_BP",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Feather/PrimalItemConsumable_Feather_Apex.PrimalItemConsumable_Feather_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 3600,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+                    ],
+                    "alternateItems": []
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/2Apex/Pelagornis/ApexPela_Character_BP.ApexPela_Character_BP",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Feather/PrimalItemConsumable_Feather_Apex.PrimalItemConsumable_Feather_Apex"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/2Apex/TerrorBird/ApexTerrorBird_Character_BP.ApexTerrorBird_Character_BP",
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex"
+                    ]
+                },
+                {
+                    "intervalSeconds": 240,
+                    "alternateItemChance": 0,
+                    "items": [],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Feather/PrimalItemConsumable_Feather_Apex.PrimalItemConsumable_Feather_Apex"
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Golem/Demonic_RockGolem_Character_BP.Demonic_RockGolem_Character_BP",
+            "produces": [
+                {
+                    "intervalSeconds": 120,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "/PrimalNemesis/3Items/Metalsystem/Minerals/Copper/PrimalItemResource_CopperOre.PrimalItemResource_CopperOre"
+                    ],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Demonic/PrimalItemConsumable_Blood_Demonic.PrimalItemConsumable_Blood_Demonic"
+                    ]
+                },
+                {
+                    "intervalSeconds": 120,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'"
+                    ],
+                    "alternateItems": [
+                        "/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Demonic/PrimalItemResource_Hide_Demonic.PrimalItemResource_Hide_Demonic"
+                    ]
+                },
+                {
+                    "intervalSeconds": 120,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "/PrimalNemesis/3Items/Metalsystem/Ingots/Zinc/PrimalItemResource_ZincOre.PrimalItemResource_ZincOre"
+                    ],
+                    "alternateItems": []
+                },
+                {
+                    "intervalSeconds": 120,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "/PrimalNemesis/3Items/Metalsystem/Minerals/Tin/PrimalItemResource_TinOre.PrimalItemResource_TinOre"
+                    ],
+                    "alternateItems": []
+                },
+                {
+                    "intervalSeconds": 120,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "/PrimalNemesis/3Items/Metalsystem/Minerals/Nickel/PrimalItemResource_NickelOre.PrimalItemResource_NickelOre"
+                    ],
+                    "alternateItems": []
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP'",
+            "produces": [
+                {
+                    "intervalSeconds": 120,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "/PrimalNemesis/3Items/Metalsystem/Minerals/Copper/PrimalItemResource_CopperOre.PrimalItemResource_CopperOre"
+                    ],
+                    "alternateItems": []
+                },
+                {
+                    "intervalSeconds": 120,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'"
+                    ],
+                    "alternateItems": []
+                },
+                {
+                    "intervalSeconds": 120,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "/PrimalNemesis/3Items/Metalsystem/Ingots/Zinc/PrimalItemResource_ZincOre.PrimalItemResource_ZincOre"
+                    ],
+                    "alternateItems": []
+                },
+                {
+                    "intervalSeconds": 120,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "/PrimalNemesis/3Items/Metalsystem/Minerals/Tin/PrimalItemResource_TinOre.PrimalItemResource_TinOre"
+                    ],
+                    "alternateItems": []
+                },
+                {
+                    "intervalSeconds": 120,
+                    "alternateItemChance": 0,
+                    "items": [
+                        "/PrimalNemesis/3Items/Metalsystem/Minerals/Nickel/PrimalItemResource_NickelOre.PrimalItemResource_NickelOre"
+                    ],
+                    "alternateItems": []
                 }
             ]
         }
