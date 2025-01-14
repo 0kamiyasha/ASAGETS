@@ -522,7 +522,7 @@
                             "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
-                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/BeeFlowers/Angelic/PrimalItemResource_Rareflower_Celestial.PrimalItemResource_Rareflower_Celestial",
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/BeeFlowers/Celestial/PrimalItemResource_Rareflower_Celestial.PrimalItemResource_Rareflower_Celestial",
                                     "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
