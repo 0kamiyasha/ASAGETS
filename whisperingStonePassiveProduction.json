@@ -3,7 +3,7 @@
     "production": [
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Achitina/AlphaAchatina_Character_BP_PN.AlphaAchatina_Character_BP_PN",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 60,
@@ -59,7 +59,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -90,7 +90,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Celestial/Phoenix/Celestial_Phoenix_Character_BP.Celestial_Phoenix_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -133,7 +133,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -157,7 +157,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1WaterDinos/1Pacific/Basilo/Pacific_Basilosaurus_Character_BP.Pacific_Basilosaurus_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -188,7 +188,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1WaterDinos/2Atlantic/Basilo/Atlantic_Basilosaurus_Character_BP.Atlantic_Basilosaurus_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -219,7 +219,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/Genesis/Dinos/BiomeVariants/Ocean_Basilosaurus/Ocean_Basilosaurus_Character_BP.Ocean_Basilosaurus_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -243,7 +243,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -267,7 +267,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1WaterDinos/2Atlantic/tusoteuthis/Atlantic_Tusoteuthis_Character_BP.Atlantic_Tusoteuthis_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -298,7 +298,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1WaterDinos/1Pacific/tusoteuthis/Pacific_Tusoteuthis_Character_BP.Pacific_Tusoteuthis_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -329,7 +329,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -353,7 +353,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -413,7 +413,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/Genesis2/Dinos/TekStrider/TekStrider_Character_BP.TekStrider_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.1,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -437,7 +437,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.15,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -468,7 +468,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/0Bees/Demonic/DemonicBee_Queen_Character_BP.DemonicBee_Queen_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.15,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -511,7 +511,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/0Bees/Celestial/CelestialBee_Queen_Character_BP.CelestialBee_Queen_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.15,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -554,7 +554,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 900,
@@ -596,7 +596,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Dungbeetle/AlphaDungBeetle_Character_BP_PN.AlphaDungBeetle_Character_BP_PN",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 900,
@@ -652,7 +652,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Dungbeetle/ApexDungBeetle_Character_BP.ApexDungBeetle_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 900,
@@ -708,7 +708,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Nature/Beetle/Nature_DungBeetle_Character_BP.Nature_DungBeetle_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 900,
@@ -764,7 +764,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 300,
@@ -788,7 +788,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Archaeopteryx/AlphaArcha_Character_BP_PN.AlphaArcha_Character_BP_PN",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 300,
@@ -825,7 +825,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Archaeopteryx/ApexArcha_Character_BP.ApexArcha_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 300,
@@ -862,7 +862,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Dodo/ApexDodo_Character_BP.ApexDodo_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -886,7 +886,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Volcanic/Ankylosaurus/Volcanic_Ankylo_Character_BP_PN.Volcanic_Ankylo_Character_BP_PN",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -942,7 +942,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/3Items/Metalsystem/1ResourceGolem/ResourceRockGolem_Character_BP.ResourceRockGolem_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 120,
@@ -1038,7 +1038,7 @@
         },
     {
         "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'",
-        "chanceToProduce": 1,
+        "chanceToProduce": 0.55,
         "produces": [
             {
                 "intervalSeconds": 240,
@@ -1069,7 +1069,7 @@
     },
     {
         "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Castoroides/AlphaBeaver_Character_BP_PN.AlphaBeaver_Character_BP_PN",
-        "chanceToProduce": 1,
+        "chanceToProduce": 0.55,
         "produces": [
             {
                 "intervalSeconds": 240,
@@ -1112,7 +1112,7 @@
     },
     {
         "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Castoroides/ApexBeaver_Character_BP.ApexBeaver_Character_BP",
-        "chanceToProduce": 1,
+        "chanceToProduce": 0.55,
         "produces": [
             {
                 "intervalSeconds": 240,
@@ -1155,7 +1155,7 @@
     },
     {
         "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Hydro/Beaver/HydroBeaver_Character_BP.HydroBeaver_Character_BP",
-        "chanceToProduce": 1,
+        "chanceToProduce": 0.55,
         "produces": [
             {
                 "intervalSeconds": 240,
@@ -1198,7 +1198,7 @@
     },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1229,7 +1229,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Ovis/AlphaOvis_Character_BP_PN.AlphaOvis_Character_BP_PN",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.35,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1272,7 +1272,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Ovis/ApexOvis_Character_BP.ApexOvis_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.35,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1315,7 +1315,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 60,
@@ -1346,7 +1346,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Achitina/ApexAchatina_Character_BP.ApexAchatina_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 60,
@@ -1402,7 +1402,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 60,
@@ -1444,7 +1444,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Doedicurus/AlphaDoed_Character_BP_PN.AlphaDoed_Character_BP_PN",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1481,7 +1481,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Doedicurus/ApexDoed_Character_BP.ApexDoed_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1518,7 +1518,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/5BionicAndGrenadier/Bionic/Doedicurus/Bionic_Doed_Character_BP.Bionic_Doed_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1549,7 +1549,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Earth/Doedic/Earth_Doed_Character_BP.Earth_Doed_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1586,7 +1586,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1610,7 +1610,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Onyc/AlphaOnyc_Character_BP_PN.AlphaOnyc_Character_BP_PN",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.15,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1647,7 +1647,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Onyc/ApexOnyc_Character_BP.ApexOnyc_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.15,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1684,7 +1684,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Argentavis/ApexArgent_Character_BP.ApexArgent_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1708,7 +1708,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Hesperornis/ApexHesperornis_Character_BP.ApexHesperornis_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1750,7 +1750,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Pelagornis/ApexPela_Character_BP.ApexPela_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1774,7 +1774,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/TerrorBird/ApexTerrorBird_Character_BP.ApexTerrorBird_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -1798,7 +1798,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Golem/Demonic_RockGolem_Character_BP.Demonic_RockGolem_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 120,
@@ -1908,7 +1908,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 120,
@@ -2004,7 +2004,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2046,7 +2046,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/Aberration/Dinos/Crab/MegaCrab_Character_BP.MegaCrab_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2102,7 +2102,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Ice/Crab/Ice_Crab_Character_BP.Ice_Crab_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2158,7 +2158,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.15,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2182,7 +2182,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Direbear/AlphaDirebear_Character_BP_PN.AlphaDirebear_Character_BP_PN",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.15,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2219,7 +2219,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Direbear/ApexDirebear_Character_BP.ApexDirebear_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.15,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2256,7 +2256,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Storm/Bear/Electric_Direbear_Character_BP.Electric_Direbear_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.15,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2287,7 +2287,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2318,7 +2318,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Pulmonoscorpius/AlphaScorpion_Character_BP_PN.AlphaScorpion_Character_BP_PN",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2361,7 +2361,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Pulmonoscorpius/ApexScorpion_Character_BP.ApexScorpion_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2404,12 +2404,12 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": []
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Storm/Griffin/Electric_Griffin_Character_BP.Electric_Griffin_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.1,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2440,7 +2440,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/6DemonicAndCelestial/5Demonic/Griffin/Demonic_Griffin_Character_BP.Demonic_Griffin_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.1,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2477,7 +2477,7 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/WoollyRhino/Rhino_Character_BP.Rhino_Character_BP'",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2501,7 +2501,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/WoollyRhino/AlphaRhino_Character_BP_PN.AlphaRhino_Character_BP_PN",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
@@ -2538,7 +2538,7 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/WoollyRhino/ApexRhino_Character_BP.ApexRhino_Character_BP",
-            "chanceToProduce": 1,
+            "chanceToProduce": 0.55,
             "produces": [
                 {
                     "intervalSeconds": 240,
