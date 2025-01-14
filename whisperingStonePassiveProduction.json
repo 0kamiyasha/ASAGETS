@@ -120,12 +120,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Celestial/PrimalItemResource_Hide_Celestial.PrimalItemResource_Hide_Celestial",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Celestial/PrimalItemConsumable_Blood_Celestial.PrimalItemConsumable_Blood_Celestial",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -496,12 +528,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Demonic/PrimalItemConsumable_Blood_Demonic.PrimalItemConsumable_Blood_Demonic",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Demonic/PrimalItemResource_Hide_Demonic.PrimalItemResource_Hide_Demonic",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -522,7 +586,7 @@
                             "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
-                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/BeeFlowers/Celestial/PrimalItemResource_Rareflower_Celestial.PrimalItemResource_Rareflower_Celestial",
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/BeeFlowers/Angelic/PrimalItemResource_Rareflower_Celestial.PrimalItemResource_Rareflower_Celestial",
                                     "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
@@ -537,12 +601,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Celestial/PrimalItemConsumable_Blood_Celestial.PrimalItemConsumable_Blood_Celestial",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Celestial/PrimalItemResource_Hide_Celestial.PrimalItemResource_Hide_Celestial",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -812,7 +908,23 @@
                 {
                     "intervalSeconds": 300,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -848,7 +960,23 @@
                 {
                     "intervalSeconds": 300,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1301,12 +1429,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1342,12 +1502,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1512,7 +1704,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1548,7 +1756,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1615,7 +1839,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/3Element/Earth/PrimalItemResource_Hide_Earth.PrimalItemResource_Hide_Earth",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1675,7 +1915,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1711,7 +1967,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -1722,12 +1994,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
@@ -1756,12 +2060,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
@@ -1808,12 +2144,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
@@ -1842,12 +2210,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
@@ -2285,7 +2685,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -2321,7 +2737,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -2419,12 +2851,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -2460,12 +2924,44 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 },
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -2476,7 +2972,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard'",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -2543,7 +3055,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Demonic/PrimalItemResource_Hide_Demonic.PrimalItemResource_Hide_Demonic",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -2603,7 +3131,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         },
@@ -2639,7 +3183,23 @@
                 {
                     "intervalSeconds": 240,
                     "itemSelectMode": 0,
-                    "items": []
+                    "items": [
+                        {
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
                 }
             ]
         }
