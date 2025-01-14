@@ -1036,216 +1036,166 @@
                 }
             ]
         },
-        {
-            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'",
-            "chanceToProduce": 1,
-            "produces": [
-                {
-                    "intervalSeconds": 240,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                },
-                {
-                    "intervalSeconds": 60,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Castoroides/AlphaBeaver_Character_BP_PN.AlphaBeaver_Character_BP_PN",
-            "chanceToProduce": 1,
-            "produces": [
-                {
-                    "intervalSeconds": 240,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.1,
-                            "alternateItems": [
-                                {
-                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 10,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
-                                }
-                            ],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                },
-                {
-                    "intervalSeconds": 60,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.1,
-                            "alternateItems": [
-                                {
-                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 10,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
-                                }
-                            ],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Castoroides/ApexBeaver_Character_BP.ApexBeaver_Character_BP",
-            "chanceToProduce": 1,
-            "produces": [
-                {
-                    "intervalSeconds": 240,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.1,
-                            "alternateItems": [
-                                {
-                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 10,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
-                                }
-                            ],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                },
-                {
-                    "intervalSeconds": 60,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.1,
-                            "alternateItems": [
-                                {
-                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
-                                    "quantityPerItem": 10,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
-                                }
-                            ],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Hydro/Beaver/HydroBeaver_Character_BP.HydroBeaver_Character_BP",
-            "chanceToProduce": 1,
-            "produces": [
-                {
-                    "intervalSeconds": 240,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.1,
-                            "alternateItems": [
-                                {
-                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Hydro/PrimalItemConsumable_Blood_Hydro.PrimalItemConsumable_Blood_Hydro",
-                                    "quantityPerItem": 10,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
-                                }
-                            ],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                },
-                {
-                    "intervalSeconds": 60,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.1,
-                            "alternateItems": [
-                                {
-                                    "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/3Element/Hydro/PrimalItemResource_Hide_Hydro.PrimalItemResource_Hide_Hydro",
-                                    "quantityPerItem": 10,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
-                                }
-                            ],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                }
-            ]
-        },
+    {
+        "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'",
+        "chanceToProduce": 1,
+        "produces": [
+            {
+                "intervalSeconds": 240,
+                "itemSelectMode": 0,
+                "items": [
+                    {
+                        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'",
+                        "maxQuantityPerCycle": 0,
+                        "maxQuantityInTerminal": 0,
+                        "quantityPerDino": 10,
+                        "alternateSelectMode": 0,
+                        "alternateItemsChance": 0,
+                        "alternateItems": [
+                            {
+                                "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
+                                "quantityPerItem": 10,
+                                "maxQuantityPerCycle": 0,
+                                "maxQuantityInTerminal": 0
+                            }
+                        ],
+                        "comsumesSelectMode": 0,
+                        "consumesItemsChance": 0,
+                        "consumesItems": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Castoroides/AlphaBeaver_Character_BP_PN.AlphaBeaver_Character_BP_PN",
+        "chanceToProduce": 1,
+        "produces": [
+            {
+                "intervalSeconds": 240,
+                "itemSelectMode": 0,
+                "items": [
+                    {
+                        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'",
+                        "maxQuantityPerCycle": 0,
+                        "maxQuantityInTerminal": 0,
+                        "quantityPerDino": 10,
+                        "alternateSelectMode": 0,
+                        "alternateItemsChance": 0.1,
+                        "alternateItems": [
+                            {
+                                "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
+                                "quantityPerItem": 10,
+                                "maxQuantityPerCycle": 0,
+                                "maxQuantityInTerminal": 0
+                            },
+                            {
+                                "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
+                                "quantityPerItem": 10,
+                                "maxQuantityPerCycle": 0,
+                                "maxQuantityInTerminal": 0
+                            },
+                            {
+                                "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
+                                "quantityPerItem": 10,
+                                "maxQuantityPerCycle": 0,
+                                "maxQuantityInTerminal": 0
+                            }
+                        ],
+                        "comsumesSelectMode": 0,
+                        "consumesItemsChance": 0,
+                        "consumesItems": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dinoType": "Blueprint'/PrimalNemesis/1Dinos/2Apex/Castoroides/ApexBeaver_Character_BP.ApexBeaver_Character_BP",
+        "chanceToProduce": 1,
+        "produces": [
+            {
+                "intervalSeconds": 240,
+                "itemSelectMode": 0,
+                "items": [
+                    {
+                        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'",
+                        "maxQuantityPerCycle": 0,
+                        "maxQuantityInTerminal": 0,
+                        "quantityPerDino": 10,
+                        "alternateSelectMode": 0,
+                        "alternateItemsChance": 0.1,
+                        "alternateItems": [
+                            {
+                                "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
+                                "quantityPerItem": 10,
+                                "maxQuantityPerCycle": 0,
+                                "maxQuantityInTerminal": 0
+                            },
+                            {
+                                "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
+                                "quantityPerItem": 10,
+                                "maxQuantityPerCycle": 0,
+                                "maxQuantityInTerminal": 0
+                            },
+                            {
+                                "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
+                                "quantityPerItem": 10,
+                                "maxQuantityPerCycle": 0,
+                                "maxQuantityInTerminal": 0
+                            }
+                        ],
+                        "comsumesSelectMode": 0,
+                        "consumesItemsChance": 0,
+                        "consumesItems": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Hydro/Beaver/HydroBeaver_Character_BP.HydroBeaver_Character_BP",
+        "chanceToProduce": 1,
+        "produces": [
+            {
+                "intervalSeconds": 240,
+                "itemSelectMode": 0,
+                "items": [
+                    {
+                        "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'",
+                        "maxQuantityPerCycle": 0,
+                        "maxQuantityInTerminal": 0,
+                        "quantityPerDino": 10,
+                        "alternateSelectMode": 0,
+                        "alternateItemsChance": 0.1,
+                        "alternateItems": [
+                            {
+                                "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Hydro/PrimalItemConsumable_Blood_Hydro.PrimalItemConsumable_Blood_Hydro",
+                                "quantityPerItem": 10,
+                                "maxQuantityPerCycle": 0,
+                                "maxQuantityInTerminal": 0
+                            },
+                            {
+                                "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
+                                "quantityPerItem": 10,
+                                "maxQuantityPerCycle": 0,
+                                "maxQuantityInTerminal": 0
+                            },
+                            {
+                                "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/3Element/Hydro/PrimalItemResource_Hide_Hydro.PrimalItemResource_Hide_Hydro",
+                                "quantityPerItem": 10,
+                                "maxQuantityPerCycle": 0,
+                                "maxQuantityInTerminal": 0
+                            }
+                        ],
+                        "comsumesSelectMode": 0,
+                        "consumesItemsChance": 0,
+                        "consumesItems": []
+                    }
+                ]
+            }
+        ]
+    },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP'",
             "chanceToProduce": 1,
