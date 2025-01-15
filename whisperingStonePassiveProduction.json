@@ -4718,42 +4718,6 @@
             ]
         },
         {
-            "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Stego/AlphaStego_Character_BP_PN.AlphaStego_Character_BP_PN",
-            "chanceToProduce": 0.1,
-            "produces": [
-                {
-                    "intervalSeconds": 240,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        },
-                        {
-                            "bpPath": "/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/1Alpha/Tapejara/AlphaTapejara_Character_BP_PN.AlphaTapejara_Character_BP_PN",
             "chanceToProduce": 0.1,
             "produces": [
@@ -7706,7 +7670,7 @@
             ]
         },
         {
-            "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Ice/Berserk_dragon/Ice_BeserkDragon_Character_BP.Ice_BeserkDragon_Character_BP",
+            "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Ice/Berserk_dragon/Frost_BeserkDragon_Character_BP",
             "chanceToProduce": 0.1,
             "produces": [
                 {
@@ -7779,42 +7743,6 @@
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Ice/Gorilla/Ice_Gorilla_Character_BP.Ice_Gorilla_Character_BP",
-            "chanceToProduce": 0.1,
-            "produces": [
-                {
-                    "intervalSeconds": 240,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/PrimalNemesis/3Items/Hides/3Element/Frost/PrimalItemResource_Hide_Frost.PrimalItemResource_Hide_Frost",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        },
-                        {
-                            "bpPath": "/PrimalNemesis/3Items/Bloods/3Elemental/Frost/PrimalItemConsumable_Blood_Frost.PrimalItemConsumable_Blood_Frost",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Ice/Wolf/Ice_wolf_Character_BP.Ice_wolf_Character_BP",
             "chanceToProduce": 0.1,
             "produces": [
                 {
@@ -8267,42 +8195,6 @@
                         },
                         {
                             "bpPath": "/PrimalNemesis/3Items/Bloods/3Elemental/Hydro/PrimalItemConsumable_Blood_Hydro.PrimalItemConsumable_Blood_Hydro",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Nature/Bigfoot/Mayan_Bigfoot_BP.Mayan_Bigfoot_BP",
-            "chanceToProduce": 0.1,
-            "produces": [
-                {
-                    "intervalSeconds": 240,
-                    "itemSelectMode": 0,
-                    "items": [
-                        {
-                            "bpPath": "/PrimalNemesis/3Items/Hides/3Element/Nature/PrimalItemResource_Hide_Nature.PrimalItemResource_Hide_Nature",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
-                            "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
-                            "alternateItems": [],
-                            "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
-                            "consumesItems": []
-                        },
-                        {
-                            "bpPath": "/PrimalNemesis/3Items/Bloods/3Elemental/Nature/PrimalItemConsumable_Blood_Nature.PrimalItemConsumable_Blood_Nature",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
