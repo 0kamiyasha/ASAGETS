@@ -15,7 +15,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
@@ -40,7 +40,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
@@ -71,7 +71,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'",
@@ -102,7 +102,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'",
@@ -145,7 +145,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -169,7 +169,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/FishPrimeMeat/1Pacific/PrimalItemConsumable_RawPrimeMeat_Pacific.PrimalItemConsumable_RawPrimeMeat_Pacific",
@@ -200,7 +200,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/FishPrimeMeat/2Atlantic/PrimalItemConsumable_RawPrimeMeat_Atlantic.PrimalItemConsumable_RawPrimeMeat_Atlantic",
@@ -231,7 +231,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -255,7 +255,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -279,7 +279,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/FishPrimeMeat/2Atlantic/PrimalItemConsumable_RawPrimeMeat_Atlantic.PrimalItemConsumable_RawPrimeMeat_Atlantic",
@@ -310,7 +310,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/FishPrimeMeat/1Pacific/PrimalItemConsumable_RawPrimeMeat_Pacific.PrimalItemConsumable_RawPrimeMeat_Pacific",
@@ -341,7 +341,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -365,7 +365,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -383,7 +383,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -401,7 +401,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -425,7 +425,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -449,7 +449,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'",
@@ -480,7 +480,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/BeeFlowers/Demonic/PrimalItemResource_Rareflower_Demonic.PrimalItemResource_Rareflower_Demonic",
@@ -523,7 +523,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/BeeFlowers/Celestial/PrimalItemResource_Rareflower_Celestial.PrimalItemResource_Rareflower_Celestial",
@@ -566,7 +566,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -584,7 +584,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -608,7 +608,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
@@ -633,7 +633,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
@@ -664,7 +664,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
@@ -689,7 +689,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
@@ -720,7 +720,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Nature/PrimalItemConsumable_Blood_Nature.PrimalItemConsumable_Blood_Nature",
@@ -745,7 +745,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/3Element/Nature/PrimalItemResource_Hide_Nature.PrimalItemResource_Hide_Nature",
@@ -776,7 +776,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -800,7 +800,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
@@ -837,7 +837,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
@@ -874,7 +874,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -898,7 +898,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/3Element/Volcanic/PrimalItemResource_Hide_Volcanic.PrimalItemResource_Hide_Volcanic",
@@ -923,7 +923,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Volcanic/PrimalItemConsumable_Blood_Volcanic.PrimalItemConsumable_Blood_Volcanic",
@@ -954,7 +954,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -972,7 +972,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -990,7 +990,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1008,7 +1008,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1026,7 +1026,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1050,7 +1050,7 @@
                         "maxQuantityInTerminal": 0,
                         "quantityPerDino": 10,
                         "alternateSelectMode": 0,
-                        "alternateItemsChance": 0,
+                        "alternateItemsChance": 0.1,
                         "alternateItems": [
                             {
                                 "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
@@ -1081,7 +1081,7 @@
                         "maxQuantityInTerminal": 0,
                         "quantityPerDino": 10,
                         "alternateSelectMode": 0,
-                        "alternateItemsChance": 0.01,
+                        "alternateItemsChance": 0.1,
                         "alternateItems": [
                             {
                                 "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
@@ -1124,7 +1124,7 @@
                         "maxQuantityInTerminal": 0,
                         "quantityPerDino": 10,
                         "alternateSelectMode": 0,
-                        "alternateItemsChance": 0.01,
+                        "alternateItemsChance": 0.1,
                         "alternateItems": [
                             {
                                 "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
@@ -1167,7 +1167,7 @@
                         "maxQuantityInTerminal": 0,
                         "quantityPerDino": 10,
                         "alternateSelectMode": 0,
-                        "alternateItemsChance": 0.01,
+                        "alternateItemsChance": 0.1,
                         "alternateItems": [
                             {
                                 "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Hydro/PrimalItemConsumable_Blood_Hydro.PrimalItemConsumable_Blood_Hydro",
@@ -1210,7 +1210,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
@@ -1241,7 +1241,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
@@ -1284,7 +1284,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
@@ -1327,7 +1327,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
@@ -1358,7 +1358,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
@@ -1383,7 +1383,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
@@ -1414,7 +1414,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1432,7 +1432,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1456,7 +1456,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
@@ -1493,7 +1493,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
@@ -1530,7 +1530,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/4ADVElement/Bionic/PrimalItemConsumable_Blood_Bionic.PrimalItemConsumable_Blood_Bionic",
@@ -1561,7 +1561,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Earth/PrimalItemConsumable_Blood_Earth.PrimalItemConsumable_Blood_Earth",
@@ -1598,7 +1598,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1622,7 +1622,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
@@ -1659,7 +1659,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
@@ -1696,7 +1696,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1720,7 +1720,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1738,7 +1738,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1762,7 +1762,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1786,7 +1786,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1810,7 +1810,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Demonic/PrimalItemConsumable_Blood_Demonic.PrimalItemConsumable_Blood_Demonic",
@@ -1835,7 +1835,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Demonic/PrimalItemResource_Hide_Demonic.PrimalItemResource_Hide_Demonic",
@@ -1860,7 +1860,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1878,7 +1878,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1896,7 +1896,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1920,7 +1920,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1938,7 +1938,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1956,7 +1956,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1974,7 +1974,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1992,7 +1992,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -2016,7 +2016,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -2034,7 +2034,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -2058,7 +2058,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
@@ -2083,7 +2083,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
@@ -2114,7 +2114,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/3Element/Frost/PrimalItemResource_Hide_Frost.PrimalItemResource_Hide_Frost",
@@ -2139,7 +2139,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Frost/PrimalItemConsumable_Blood_Frost.PrimalItemConsumable_Blood_Frost",
@@ -2170,7 +2170,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -2194,7 +2194,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
@@ -2231,7 +2231,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
@@ -2268,7 +2268,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Storm/PrimalItemConsumable_Blood_Storm.PrimalItemConsumable_Blood_Storm",
@@ -2299,7 +2299,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic'",
@@ -2330,7 +2330,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Narcotics/1Alpha/PrimalItemConsumable_Narcotic_Alpha.PrimalItemConsumable_Narcotic_Alpha",
@@ -2373,7 +2373,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Narcotics/2Apex/PrimalItemConsumable_Narcotic_Apex.PrimalItemConsumable_Narcotic_Apex",
@@ -2404,8 +2404,27 @@
         },
         {
             "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP'",
-            "chanceToProduce": 0.75,
-            "produces": []
+            "chanceToProduce": 0.1,
+            "produces": [{
+                    "intervalSeconds": 240,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard'",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+							"alternateSelectMode": 0,
+                            "alternateItemsChance": 0.1,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
         },
         {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/3Elemental/Storm/Griffin/Electric_Griffin_Character_BP.Electric_Griffin_Character_BP",
@@ -2421,7 +2440,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Storm/PrimalItemConsumable_Blood_Storm.PrimalItemConsumable_Blood_Storm",
@@ -2452,7 +2471,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Demonic/PrimalItemConsumable_Blood_Demonic.PrimalItemConsumable_Blood_Demonic",
@@ -2489,7 +2508,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -2513,7 +2532,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
@@ -2550,7 +2569,7 @@
                             "maxQuantityInTerminal": 0,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.01,
+                            "alternateItemsChance": 0.1,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
