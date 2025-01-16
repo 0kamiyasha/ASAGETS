@@ -19,7 +19,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -44,7 +44,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -75,7 +75,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -106,19 +106,19 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Celestial/PrimalItemResource_Hide_Celestial.PrimalItemResource_Hide_Celestial",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Celestial/PrimalItemConsumable_Blood_Celestial.PrimalItemConsumable_Blood_Celestial",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -173,7 +173,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/FishPrimeMeat/1Pacific/PrimalItemConsumable_RawPrimeMeat_Pacific.PrimalItemConsumable_RawPrimeMeat_Pacific",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -204,7 +204,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/FishPrimeMeat/2Atlantic/PrimalItemConsumable_RawPrimeMeat_Atlantic.PrimalItemConsumable_RawPrimeMeat_Atlantic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -283,7 +283,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/FishPrimeMeat/2Atlantic/PrimalItemConsumable_RawPrimeMeat_Atlantic.PrimalItemConsumable_RawPrimeMeat_Atlantic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -314,7 +314,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/FishPrimeMeat/1Pacific/PrimalItemConsumable_RawPrimeMeat_Pacific.PrimalItemConsumable_RawPrimeMeat_Pacific",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -453,7 +453,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -484,19 +484,19 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/BeeFlowers/Demonic/PrimalItemResource_Rareflower_Demonic.PrimalItemResource_Rareflower_Demonic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Demonic/PrimalItemConsumable_Blood_Demonic.PrimalItemConsumable_Blood_Demonic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Demonic/PrimalItemResource_Hide_Demonic.PrimalItemResource_Hide_Demonic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -527,19 +527,19 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/BeeFlowers/Celestial/PrimalItemResource_Rareflower_Celestial.PrimalItemResource_Rareflower_Celestial",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Celestial/PrimalItemConsumable_Blood_Celestial.PrimalItemConsumable_Blood_Celestial",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Celestial/PrimalItemResource_Hide_Celestial.PrimalItemResource_Hide_Celestial",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -564,7 +564,7 @@
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
+                            "quantityPerDino": 10,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
@@ -576,7 +576,7 @@
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
+                            "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
@@ -585,7 +585,7 @@
                             "consumesItems": [
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumablePoop.PrimalItemConsumablePoop",
-                                    "quantityPerItem": 1,
+                                    "quantityPerItem": 5,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -613,7 +613,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -632,7 +632,7 @@
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
+                            "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
@@ -641,7 +641,7 @@
                             "consumesItems": [
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumablePoop.PrimalItemConsumablePoop",
-                                    "quantityPerItem": 1,
+                                    "quantityPerItem": 5,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -669,7 +669,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -688,7 +688,7 @@
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
+                            "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
@@ -697,7 +697,7 @@
                             "consumesItems": [
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumablePoop.PrimalItemConsumablePoop",
-                                    "quantityPerItem": 1,
+                                    "quantityPerItem": 5,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -725,7 +725,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Nature/PrimalItemConsumable_Blood_Nature.PrimalItemConsumable_Blood_Nature",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -744,7 +744,7 @@
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
+                            "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
@@ -753,7 +753,7 @@
                             "consumesItems": [
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumablePoop.PrimalItemConsumablePoop",
-                                    "quantityPerItem": 1,
+                                    "quantityPerItem": 5,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -805,13 +805,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -842,13 +842,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -903,7 +903,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/3Element/Volcanic/PrimalItemResource_Hide_Volcanic.PrimalItemResource_Hide_Volcanic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -928,7 +928,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Volcanic/PrimalItemConsumable_Blood_Volcanic.PrimalItemConsumable_Blood_Volcanic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1055,7 +1055,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1086,19 +1086,19 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1129,19 +1129,19 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1172,19 +1172,19 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Hydro/PrimalItemConsumable_Blood_Hydro.PrimalItemConsumable_Blood_Hydro",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/3Element/Hydro/PrimalItemResource_Hide_Hydro.PrimalItemResource_Hide_Hydro",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1215,7 +1215,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1246,19 +1246,19 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1289,19 +1289,19 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1332,7 +1332,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1363,7 +1363,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1388,7 +1388,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1461,13 +1461,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1498,13 +1498,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1535,7 +1535,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/4ADVElement/Bionic/PrimalItemConsumable_Blood_Bionic.PrimalItemConsumable_Blood_Bionic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1566,13 +1566,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Earth/PrimalItemConsumable_Blood_Earth.PrimalItemConsumable_Blood_Earth",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/3Element/Earth/PrimalItemResource_Hide_Earth.PrimalItemResource_Hide_Earth",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1627,13 +1627,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1664,13 +1664,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1815,7 +1815,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Demonic/PrimalItemConsumable_Blood_Demonic.PrimalItemConsumable_Blood_Demonic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -1840,7 +1840,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Demonic/PrimalItemResource_Hide_Demonic.PrimalItemResource_Hide_Demonic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2063,7 +2063,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2088,7 +2088,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2119,7 +2119,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/3Element/Frost/PrimalItemResource_Hide_Frost.PrimalItemResource_Hide_Frost",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2144,7 +2144,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Frost/PrimalItemConsumable_Blood_Frost.PrimalItemConsumable_Blood_Frost",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2199,13 +2199,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2236,13 +2236,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2273,7 +2273,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Storm/PrimalItemConsumable_Blood_Storm.PrimalItemConsumable_Blood_Storm",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2304,7 +2304,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic'",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2335,19 +2335,19 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Narcotics/1Alpha/PrimalItemConsumable_Narcotic_Alpha.PrimalItemConsumable_Narcotic_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2378,19 +2378,19 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Narcotics/2Apex/PrimalItemConsumable_Narcotic_Apex.PrimalItemConsumable_Narcotic_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2445,7 +2445,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/3Elemental/Storm/PrimalItemConsumable_Blood_Storm.PrimalItemConsumable_Blood_Storm",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2476,13 +2476,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/6DemonicAndCelestial/Demonic/PrimalItemConsumable_Blood_Demonic.PrimalItemConsumable_Blood_Demonic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/6DemonicAndCelestial/Demonic/PrimalItemResource_Hide_Demonic.PrimalItemResource_Hide_Demonic",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2537,13 +2537,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/1Alpha/PrimalItemConsumable_Blood_Alpha.PrimalItemConsumable_Blood_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/1Alpha/PrimalItemResource_Hide_Alpha.PrimalItemResource_Hide_Alpha",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -2574,13 +2574,13 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Bloods/2Apex/PrimalItemConsumable_Blood_Apex.PrimalItemConsumable_Blood_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 },
                                 {
                                     "bpPath": "Blueprint'/PrimalNemesis/3Items/Hides/2Apex/PrimalItemResource_Hide_Apex.PrimalItemResource_Hide_Apex",
-                                    "quantityPerItem": 1
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
