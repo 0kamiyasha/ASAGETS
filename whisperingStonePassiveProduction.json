@@ -9638,6 +9638,336 @@
             ]
         },
         {
+            "dinoType": "Blueprint'/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Storm/Storm_Titan_Character_BP_Whelpling_Tamed.Storm_Titan_Character_BP_Whelpling_Tamed",
+            "chanceToProduce": 0.1,
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Bloods/3Elemental/Storm/PrimalItemConsumable_Blood_Storm.PrimalItemConsumable_Blood_Storm",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Electric/PrimalItemConsumable_Fruit_Electric.PrimalItemConsumable_Fruit_Electric",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.01,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Electric/PrimalItemConsumable_Seed_Electric.PrimalItemConsumable_Seed_Electric",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Hides/3Element/Electric/PrimalItemResource_Hide_Electric.PrimalItemResource_Hide_Electric",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Earth/Earth_Titan_Character_BP_Whelpling_Tamed.Earth_Titan_Character_BP_Whelpling_Tamed",
+            "chanceToProduce": 0.1,
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Bloods/3Elemental/Earth/PrimalItemConsumable_Blood_Earth.PrimalItemConsumable_Blood_Earth",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Earth/PrimalItemConsumable_Fruit_Earth.PrimalItemConsumable_Fruit_Earth",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.01,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Earth/PrimalItemConsumable_Seed_Earth.PrimalItemConsumable_Seed_Earth",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Hides/3Element/Earth/PrimalItemResource_Hide_Earth.PrimalItemResource_Hide_Earth",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Hydro/Hydro_Titan_Character_BP_Whelpling_Tamed.Hydro_Titan_Character_BP_Whelpling_Tamed",
+            "chanceToProduce": 0.1,
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Bloods/3Elemental/Hydro/PrimalItemConsumable_Blood_Hydro.PrimalItemConsumable_Blood_Hydro",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Hydro/PrimalItemConsumable_Fruit_Hydro.PrimalItemConsumable_Fruit_Hydro",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.01,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Hydro/PrimalItemConsumable_Seed_Hydro.PrimalItemConsumable_Seed_Hydro",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Hides/3Element/Hydro/PrimalItemResource_Hide_Hydro.PrimalItemResource_Hide_Hydro",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Frost/Frost_Titan_Character_BP_Whelpling_Tamed.Frost_Titan_Character_BP_Whelpling_Tamed",
+            "chanceToProduce": 0.1,
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Bloods/3Elemental/Frost/PrimalItemConsumable_Blood_Frost.PrimalItemConsumable_Blood_Frost",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Frost/PrimalItemConsumable_Fruit_Frost.PrimalItemConsumable_Fruit_Frost",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.01,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Frost/PrimalItemConsumable_Seed_Frost.PrimalItemConsumable_Seed_Frost",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Hides/3Element/Frost/PrimalItemResource_Hide_Frost.PrimalItemResource_Hide_Frost",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Nature/Nature_Titan_Character_BP_Whelpling_Tamed.Nature_Titan_Character_BP_Whelpling_Tamed",
+            "chanceToProduce": 0.1,
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Bloods/3Elemental/Nature/PrimalItemConsumable_Blood_Nature.PrimalItemConsumable_Blood_Nature",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Nature/PrimalItemConsumable_Fruit_Nature.PrimalItemConsumable_Fruit_Nature",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.01,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Nature/PrimalItemConsumable_Seed_Nature.PrimalItemConsumable_Seed_Nature",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Hides/3Element/Nature/PrimalItemResource_Hide_Nature.PrimalItemResource_Hide_Nature",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "Blueprint'/PrimalNemesis/1Bosses/YounglingBosses/0TamedVersion/1Whelpling/Volcanic/Volcanic_Titan_Character_BP_Whelpling_Tamed.Volcanic_Titan_Character_BP_Whelpling_Tamed",
+            "chanceToProduce": 0.1,
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Bloods/3Elemental/Volcanic/PrimalItemConsumable_Blood_Volcanic.PrimalItemConsumable_Blood_Volcanic",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Volcanic/PrimalItemConsumable_Fruit_Volcanic.PrimalItemConsumable_Fruit_Volcanic",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.01,
+                            "alternateItems": [
+                                {
+                                    "bpPath": "/PrimalNemesis/3Items/Seeds/ElementalSeeds/Volcanic/PrimalItemConsumable_Seed_Volcanic.PrimalItemConsumable_Seed_Volcanic",
+                                    "quantityPerItem": 1,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
+                            ],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        },
+                        {
+                            "bpPath": "/PrimalNemesis/3Items/Hides/3Element/Volcanic/PrimalItemResource_Hide_Volcanic.PrimalItemResource_Hide_Volcanic",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "dinoType": "Blueprint'/PrimalNemesis/1Dinos/7Godly/Tiger/Godly_SaberKing_BP.Godly_SaberKing_BP",
             "chanceToProduce": 0.1,
             "produces": [
